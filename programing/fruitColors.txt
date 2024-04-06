@@ -1,0 +1,9 @@
+Apple Red
+Banana Yellow
+Pear Grean
+Kiwi Crean
+Pineapple Yellow
+Watermelon Red
+Lemon Yellow
+Orange Orange
+\n
