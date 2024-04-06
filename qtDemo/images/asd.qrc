@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file alias="1">1Face.png</file>
+    <file alias="2">2Face.png</file>
+    <file alias="3">3Face.png</file>
+    <file alias="4">4Face.png</file>
+    <file alias="5">5Face.png</file>
+    <file alias="6">6Face.png</file>
+    <file alias="?">questionFace.png</file>
+  </qresource>
+</RCC>
