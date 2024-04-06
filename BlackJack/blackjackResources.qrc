@@ -1,0 +1,65 @@
+<RCC>
+  <qresource>
+    <file>BlackJackGraphics/BlackJackWonLogo.png</file>
+    <file>BlackJackGraphics/busted.png</file>
+    <file>BlackJackGraphics/DealerText.png</file>
+    <file>BlackJackGraphics/PlayerText.png</file>
+    <file>BlackJackGraphics/WinsText.png</file>
+    <file alias="2C">BlackJackGraphics/cardImages/2C.png</file>
+    <file alias="2D">BlackJackGraphics/cardImages/2D.png</file>
+    <file alias="2H">BlackJackGraphics/cardImages/2H.png</file>
+    <file alias="2S">BlackJackGraphics/cardImages/2S.png</file>
+    <file alias="3C">BlackJackGraphics/cardImages/3C.png</file>
+    <file alias="3D">BlackJackGraphics/cardImages/3D.png</file>
+    <file alias="3H">BlackJackGraphics/cardImages/3H.png</file>
+    <file alias="3S">BlackJackGraphics/cardImages/3S.png</file>
+    <file alias="4C">BlackJackGraphics/cardImages/4C.png</file>
+    <file alias="4D">BlackJackGraphics/cardImages/4D.png</file>
+    <file alias="4H">BlackJackGraphics/cardImages/4H.png</file>
+    <file alias="4S">BlackJackGraphics/cardImages/4S.png</file>
+    <file alias="5C">BlackJackGraphics/cardImages/5C.png</file>
+    <file alias="5D">BlackJackGraphics/cardImages/5D.png</file>
+    <file alias="5H">BlackJackGraphics/cardImages/5H.png</file>
+    <file alias="5S">BlackJackGraphics/cardImages/5S.png</file>
+    <file alias="6C">BlackJackGraphics/cardImages/6C.png</file>
+    <file alias="6D">BlackJackGraphics/cardImages/6D.png</file>
+    <file alias="6H">BlackJackGraphics/cardImages/6H.png</file>
+    <file alias="6S">BlackJackGraphics/cardImages/6S.png</file>
+    <file alias="7C">BlackJackGraphics/cardImages/7C.png</file>
+    <file alias="7D">BlackJackGraphics/cardImages/7D.png</file>
+    <file alias="7H">BlackJackGraphics/cardImages/7H.png</file>
+    <file alias="7S">BlackJackGraphics/cardImages/7S.png</file>
+    <file alias="8C">BlackJackGraphics/cardImages/8C.png</file>
+    <file alias="8D">BlackJackGraphics/cardImages/8D.png</file>
+    <file alias="8H">BlackJackGraphics/cardImages/8H.png</file>
+    <file alias="8S">BlackJackGraphics/cardImages/8S.png</file>
+    <file alias="9C">BlackJackGraphics/cardImages/9C.png</file>
+    <file alias="9D">BlackJackGraphics/cardImages/9D.png</file>
+    <file alias="9H">BlackJackGraphics/cardImages/9H.png</file>
+    <file alias="9S">BlackJackGraphics/cardImages/9S.png</file>
+    <file alias="10C">BlackJackGraphics/cardImages/10C.png</file>
+    <file alias="10D">BlackJackGraphics/cardImages/10D.png</file>
+    <file alias="10H">BlackJackGraphics/cardImages/10H.png</file>
+    <file alias="10S">BlackJackGraphics/cardImages/10S.png</file>
+    <file alias="AC">BlackJackGraphics/cardImages/AC.png</file>
+    <file alias="AD">BlackJackGraphics/cardImages/AD.png</file>
+    <file alias="AH">BlackJackGraphics/cardImages/AH.png</file>
+    <file alias="AS">BlackJackGraphics/cardImages/AS.png</file>
+    <file>BlackJackGraphics/cardImages/BlackJackWonLogo.png</file>
+    <file>BlackJackGraphics/cardImages/blankCard.png</file>
+    <file>BlackJackGraphics/cardImages/busted.png</file>
+    <file alias="back">BlackJackGraphics/cardImages/CardBackStylized.png</file>
+    <file alias="JC">BlackJackGraphics/cardImages/JC.png</file>
+    <file alias="JD">BlackJackGraphics/cardImages/JD.png</file>
+    <file alias="JH">BlackJackGraphics/cardImages/JH.png</file>
+    <file alias="JS">BlackJackGraphics/cardImages/JS.png</file>
+    <file alias="KC">BlackJackGraphics/cardImages/KC.png</file>
+    <file alias="KD">BlackJackGraphics/cardImages/KD.png</file>
+    <file alias="KH">BlackJackGraphics/cardImages/KH.png</file>
+    <file alias="KS">BlackJackGraphics/cardImages/KS.png</file>
+    <file alias="QC">BlackJackGraphics/cardImages/QC.png</file>
+    <file alias="QD">BlackJackGraphics/cardImages/QD.png</file>
+    <file alias="QH">BlackJackGraphics/cardImages/QH.png</file>
+    <file alias="QS">BlackJackGraphics/cardImages/QS.png</file>
+  </qresource>
+</RCC>
